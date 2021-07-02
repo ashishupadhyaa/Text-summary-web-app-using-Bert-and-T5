@@ -4,7 +4,8 @@ The web application takes the article as input and output the summary of the art
 
 The look of the site is as follows:
 
-
+![look](/images/look.png)
 
 The summary of the article will look llike this.
 
+![summary](/images/summ.png)
