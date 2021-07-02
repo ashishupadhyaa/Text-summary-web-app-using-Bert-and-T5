@@ -1,1 +1,10 @@
 # Text-summary-web-app-using-Bert-and-T5
+
+The web application takes the article as input and output the summary of the article in less than 200 words.
+
+The look of the site is as follows:
+
+
+
+The summary of the article will look llike this.
+
